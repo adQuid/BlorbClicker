@@ -1,3 +1,3 @@
 # Blorb Clicker
 
-An Incremental Game // [Play In Your Browser](https://adquid.github.io/BlorbClicker/)
+An Incremental Game // [Play In Your Browser](web/index.html)
