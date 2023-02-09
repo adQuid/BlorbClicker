@@ -1,3 +1,3 @@
 # Blorb Clicker
 
-An Incremental Game // [Play In Your Browser](web/index.html)
+An Incremental Game, with more science I guess // [Play In Your Browser](web/index.html)
